@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="EN">
+    <head>
+        <meta charset="UTF-8">
+        <title>bruce hobbies</title>
+    </head>
+
+    <body>
+        <hr>
+        <h1>My Hobbies</h1>
+        <ol>
+            <li>Muay Thai</li>
+            <li>Training with Kuma</li>
+            <li>Fighting with Lee Chaolan</li>
+        </ol>
+        <hr>
+    </body>
+</html>
